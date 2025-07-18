@@ -20,3 +20,8 @@ to open a new terminal in vscode is ctrl+j
 
 jsonplaceholder - site to test
 jsonplaceholder.typicode.com
+
+MongoDB Atlas
+Main steps
+-products & category schemas
+-categories restapi
