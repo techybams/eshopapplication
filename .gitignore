@@ -38,3 +38,5 @@ terraform.rc
 
 
 Backend/.env
+
+mongodb+srv://eshopuser:eshopadmin@eshop1.f4jlobv.mongodb.net/?retryWrites=true&w=majority&appName=eshop1
