@@ -4,3 +4,14 @@ architecture
 -client
 -server
 -http protocol
+
+restful api- bringing data
+http://example.com/api/v1/products
+Froontend route - showing the data
+http://example/com/products
+
+http methods
+get request response
+post
+update
+delete
